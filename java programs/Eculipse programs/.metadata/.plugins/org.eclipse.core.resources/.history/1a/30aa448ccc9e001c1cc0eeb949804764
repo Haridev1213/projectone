@@ -1,0 +1,16 @@
+package oopsinterviewquestions;
+import java.util.Scanner;
+
+public class CheckTimeFormat {
+	private int hour;
+	private int minute;
+	private int second;
+	
+public CurrentTime(int hr,int min,int sec) {
+	hour=hr;
+	minute=min;
+	second=sec;
+ }
+
+public String Check
+}

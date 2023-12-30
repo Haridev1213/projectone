@@ -1,0 +1,10 @@
+package oopsinterviewquestions;
+
+public class EmployeeRegistration {
+	
+	public static void main(String[] args) {
+	    
+		
+	}
+
+}

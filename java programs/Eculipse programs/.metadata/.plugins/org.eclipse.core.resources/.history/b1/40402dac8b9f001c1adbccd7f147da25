@@ -1,0 +1,22 @@
+package InterviewQuestions;
+
+public class ArrayEvenNumbers {
+
+public static void main(String[] args)
+{
+	int arr[]= {15,3,5,8,7,6,4};
+	int posi,newposi,arr2[] = null;
+	for(posi=0;posi<7;posi++)
+	{
+		if(arr[posi]%2==0)
+		{
+			for(newposi=0;newposi<7;newposi++)
+			{
+				arr2[newposi]=arr[posi];
+				System.out.println(arr2[newposi]);
+			}
+		}
+	}
+}
+
+}

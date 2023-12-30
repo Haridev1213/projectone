@@ -1,0 +1,18 @@
+package oopsinterviewquestions;
+
+public class TodayDate {
+	private int day;
+	private int month;
+	private int year;
+   
+ public TodayDate(int day,int date,int month,int year) {
+	this.day=day;
+	this.month=month;
+	this.year=year;
+ }
+ 
+ public String displayDate() {
+	 return day+":"+month+":"+year;
+ }
+
+}

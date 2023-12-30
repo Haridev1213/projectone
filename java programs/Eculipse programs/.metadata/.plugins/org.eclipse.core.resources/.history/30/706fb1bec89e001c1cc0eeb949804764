@@ -1,0 +1,6 @@
+package oopsinterviewquestions;
+import java.util.Scanner;
+public class CurrentTime {
+	
+
+}
